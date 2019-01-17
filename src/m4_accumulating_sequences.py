@@ -137,6 +137,7 @@ def make_simple_string(m, n):
         nums = nums + str(k)
     return nums
 
+
 def run_test_make_less_simple_string():
     """ Tests the   make_less_simple_string    function. """
     # -------------------------------------------------------------------------
